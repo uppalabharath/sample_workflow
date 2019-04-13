@@ -1,0 +1,1 @@
+1. This project is a sample project and is used as part of learing docker
